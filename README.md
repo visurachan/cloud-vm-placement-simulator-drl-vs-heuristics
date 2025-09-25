@@ -19,7 +19,7 @@ Designed using Object-Oriented Programming (OOP) principles, allowing easy exten
 -results/ -> store text based results for each allocation strategy
 -run_strategy_name_allocation/  -> contain scripts to run a single simulation run or multiple runs at once
 
-## usage
+## Usage
 ### use the DQN agent for allocation
 1.	Edit the agent parameters in “agents/create_dqn_agent.m”
 2.	Run the file “create_dqn_agent.m”
